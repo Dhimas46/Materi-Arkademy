@@ -10,7 +10,7 @@ Tampilan Pada Mobile :
 
 JS 1 :
 
-![alt text](https://github.com/Dhimas46/Materi-Arkademy/blob/master/Javascript%201.JPG}
+![alt text](https://github.com/Dhimas46/Materi-Arkademy/blob/master/Javascript%201.JPG)
 
 JS 2 :
 ![alt text](https://github.com/Dhimas46/Materi-Arkademy/blob/master/Javascript2.JPG)
